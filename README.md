@@ -13,3 +13,15 @@
 - ⚡ Fun fact: I have too many hobbies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borboletazul&langs_count=8&theme=cobalt2)](https://github.com/Borboletazul/github-readme-stats)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Borboletazula&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Borboletazul&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Borboletazu&show_icons=true" />
+</picture>
