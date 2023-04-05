@@ -12,4 +12,4 @@
 - 😄 Pronouns: ele/delas
 - ⚡ Fun fact: I have too many hobbies
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Borboletazul&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Borboletazul&repo=github-readme-stats)](https://github.com/Borboletazul/github-readme-stats)
