@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Borboletazul/Borboletazul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[![Borboletaul GitHub stats](https://github-readme-stats.vercel.app/api?username=Borboletazul&show_icons=true&theme=transparent)](https://github.com/Borboletzul/github-readme-stats)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borboletazul&hide=contribs,prs)-->
 
 - 🔭 I’m currently working on Engineering
 - 🌱 I’m currently learning C and Python
@@ -12,6 +11,3 @@
 - 📫 How to reach me: my profile email
 - 😄 Pronouns: ele/delas
 - ⚡ Fun fact: I have too many hobbies
-
-[![Borboletaul GitHub stats](https://github-readme-stats.vercel.app/api?username=Borboletazul&show_icons=true&theme=transparent)](https://github.com/Borboletzul/github-readme-stats)
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borboletazul&hide=contribs,prs)-->
