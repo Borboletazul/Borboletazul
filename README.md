@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Borboletaul GitHub stats](https://github-readme-stats.vercel.app/api?username=Borboletazul&show_icons=true&theme=yeblu)](https://github.com/Borboletzul/github-readme-stats)
+[![Borboletaul GitHub stats](https://github-readme-stats.vercel.app/api?username=Borboletazul&show_icons=true&theme=cobalt2)](https://github.com/Borboletzul/github-readme-stats)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borboletazul&hide=contribs,prs)-->
 
 - 🔭 I’m currently working on Engineering
