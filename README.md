@@ -14,4 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borboletazul&langs_count=8&theme=cobalt2)](https://github.com/Borboletazul/github-readme-stats)
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Borboletazul&repo=github-readme-stats)](https://github.com/Borboletazul/github-readme-stats)
+-->
