@@ -7,9 +7,8 @@
 - 🌱 I’m currently learning C and Python
 - 👯 I’m looking to collaborate on Arduin Projects
 - 🤔 I’m looking for help with Learning code
-- 💬 Ask me about ...
+- 💬 Ask me about productivity
 - 📫 How to reach me: my profile email
-- 😄 Pronouns: ele/delas
 - ⚡ Fun fact: I have too many hobbies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borboletazul&langs_count=8&theme=cobalt2)](https://github.com/Borboletazul/github-readme-stats)
