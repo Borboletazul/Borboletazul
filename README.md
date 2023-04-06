@@ -19,5 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Borboletazul&repo=github-readme-stats)](https://github.com/Borboletazul/github-readme-stats)
 &theme=yeblu
 &theme=cobalt2
+github_dark_dimmed
+github_dark
 &theme=transparent
 -->
