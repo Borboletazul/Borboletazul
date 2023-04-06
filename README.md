@@ -17,9 +17,3 @@
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Borboletazul&repo=github-readme-stats)](https://github.com/Borboletazul/github-readme-stats)
 -->
-
-<div>
-	<a href="https://github.com/Borboletazul">
-	<img height="180cm" src="https://github-readname-stats.vercel.app/api?username=Borboletazul&show_icons=true&theme=cobalt2&include_all_comits=true"/>
-	<img height="180cm" src="https:/github-readname-stats.vercel.app/api/top-langs?username=Borboletazul&layout=compact&langs_count=16&theme=cobalt2"/>
-</div>
