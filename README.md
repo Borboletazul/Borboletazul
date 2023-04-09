@@ -4,9 +4,12 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borboletazul&hide=contribs,prs)-->
 
 🔵 🔭 I’m currently tudying Engineering
-🔵 🌱 I’m currently learning C, Python, htlm/CSS and JavaScritp
+
+🔵 🌱 I’m currently learning C, Python, htlm/CSS and JavaScritp /n
 🔵 👯 I’m looking to collaborate on Arduin/Automation Projects
+
 🔵 🤔 I’m looking for help with Learning code and business
+
 🔵 💬 Ask me about productivity
 🔵 📫 How to reach me: my profile email
 🔵 ⚡ Fun fact: I have too many hobbies 🎸🎻🎹🎨🏎🏋️‍♀‍🏃‍♂‍🦾
