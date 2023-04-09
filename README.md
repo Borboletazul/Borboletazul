@@ -5,12 +5,17 @@
 
 🔵 🔭 I’m currently tudying Engineering
 
-🔵 🌱 I’m currently learning C, Python, htlm/CSS and JavaScritp /n
-🔵 👯 I’m looking to collaborate on Arduin/Automation Projects/n
-🔵 🤔 I’m looking for help with Learning code and business/n
-🔵 💬 Ask me about productivity/n
-🔵 📫 How to reach me: my profile email/n
-🔵 ⚡ Fun fact: I have too many hobbies 🎸🎻🎹🎨🏎🏋️‍♀‍🏃‍♂‍🦾/n
+🔵 🌱 I’m currently learning C, Python, htlm/CSS and JavaScritp
+
+🔵 👯 I’m looking to collaborate on Arduin/Automation Projects
+
+🔵 🤔 I’m looking for help with Learning code and business
+
+🔵 💬 Ask me about productivity
+
+🔵 📫 How to reach me: my profile email
+
+🔵 ⚡ Fun fact: I have too many hobbies 🎸🎻🎹🎨🏎🏋️‍♀‍🏃‍♂‍🦾
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borboletazul&langs_count=8&theme=cobalt2)](https://github.com/Borboletazul/github-readme-stats)
 
