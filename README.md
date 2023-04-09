@@ -3,13 +3,13 @@
 [![Borboletaul GitHub stats](https://github-readme-stats.vercel.app/api?username=Borboletazul&show_icons=true&theme=cobalt2)](https://github.com/Borboletzul/github-readme-stats)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borboletazul&hide=contribs,prs)-->
 
-- 🔭 I’m currently working on Engineering
-- 🌱 I’m currently learning C and Python
-- 👯 I’m looking to collaborate on Arduin Projects
-- 🤔 I’m looking for help with Learning code
-- 💬 Ask me about productivity
-- 📫 How to reach me: my profile email
-- ⚡ Fun fact: I have too many hobbies
+🔵 🔭 I’m currently tudying Engineering
+🔵 🌱 I’m currently learning C, Python, htlm/CSS and JavaScritp
+🔵 👯 I’m looking to collaborate on Arduin/Automation Projects
+🔵 🤔 I’m looking for help with Learning code and business
+🔵 💬 Ask me about productivity
+🔵 📫 How to reach me: my profile email
+🔵 ⚡ Fun fact: I have too many hobbies 🎸🎻🎹🎨🏎🏋️‍♀‍🏃‍♂‍🦾
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borboletazul&langs_count=8&theme=cobalt2)](https://github.com/Borboletazul/github-readme-stats)
 
