@@ -15,7 +15,8 @@
 
 🔵 📫 How to reach me: my profile email
 
-🔵 ⚡ Fun fact: I have too many hobbies 🎸🎻🎹🎨🏎🏋️‍♀‍🏃‍♂‍🦾
+🔵 ⚡ Fun fact: I have many hobbies 🎸🎻🎹🎨🏎🏋️‍♀‍🏃‍♂‍🦾
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borboletazul&langs_count=8&theme=cobalt2)](https://github.com/Borboletazul/github-readme-stats)
 
